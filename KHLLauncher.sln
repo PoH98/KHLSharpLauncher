@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KHLWebsocket", "KHLWebsocket\KHLWebsocket.csproj", "{8C323503-D7ED-42E2-AAEF-6BD7D5298AB7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E9523F02-5E67-45B3-B5B7-74315A2FE4C2}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KHLWebhook", "KHLWebhook\KHLWebhook.csproj", "{719FBA5F-7778-4655-AC6C-6566107E3A08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C323503-D7ED-42E2-AAEF-6BD7D5298AB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C323503-D7ED-42E2-AAEF-6BD7D5298AB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C323503-D7ED-42E2-AAEF-6BD7D5298AB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C323503-D7ED-42E2-AAEF-6BD7D5298AB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{719FBA5F-7778-4655-AC6C-6566107E3A08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{719FBA5F-7778-4655-AC6C-6566107E3A08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{719FBA5F-7778-4655-AC6C-6566107E3A08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{719FBA5F-7778-4655-AC6C-6566107E3A08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5162F30E-BB87-4A15-9350-BEF2C45CAC6B}
+	EndGlobalSection
+EndGlobal
