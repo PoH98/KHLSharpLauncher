@@ -6,7 +6,12 @@
     <ImplicitUsings>disable</ImplicitUsings>
     <UserSecretsId>6353dc22-7e7c-4550-8d46-fb9f8f7a063f</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <ApplicationIcon>favicon.ico</ApplicationIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="favicon.ico" />
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="KHLBotSharp.Core" Version="2.0.0.3" />
